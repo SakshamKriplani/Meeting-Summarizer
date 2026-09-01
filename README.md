@@ -16,7 +16,7 @@ An executive-grade AI meeting summarizer and transcription suite. Upload recorde
 
 ---
 
-### 🌐 [**🚀 Live Application: https://the-minute-book.kuldeepdhangad6.workers.dev/**](https://the-minute-book.kuldeepdhangad6.workers.dev/)
+### 🌐 [**🚀 Live Application**](https://the-minute-book.kuldeepdhangad6.workers.dev/)
 ### 🎬 [**▶️ Watch Full Video Walkthrough: Click Here to Watch on Google Drive**](https://drive.google.com/file/d/1dz470BKs_b7VbA1bIskqcHPplwuPclOa/view?usp=sharing)
 
 </div>
