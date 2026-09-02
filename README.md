@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📖 The Minute Book
+# 📖 Meeting Summarizer
 ### *Every meeting, kept like a ledger.*
 
 An executive-grade AI meeting summarizer and transcription suite. Upload recorded conversations and transform unstructured audio into timestamped transcripts, definitive decisions, and actionable task checklists.
